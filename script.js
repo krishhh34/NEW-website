@@ -1,4 +1,3 @@
-Ordocument.getElementById("clickBtn").addEventListener("click", function() {
-    alert("Nee Oru Loosu😄");
+document.getElementById("clickBtn").addEventListener("click", function() {
+    alert("Hello! You clicked the button 😄");
 });
-
